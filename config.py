@@ -7,4 +7,4 @@ UPDATE_CHANNEL_URL = 't.me/IKBRYTBOTZ'
 
 COMMAND_PREFIXES = ['/', '!', '.', ',', '$', '#']
 
-API_BASE_URL = 'https://holy-constancy-ikbryt91-468c91e9.koyeb.app:8000'
+API_BASE_URL = 'https://3.85.108.171:8000'
